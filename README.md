@@ -68,4 +68,4 @@ Footer qismini yaratamiz section tagi ichida container p row footer box ichida c
 
 # Created by
 
-## Kumanboy
+## Shoxijahon2009
